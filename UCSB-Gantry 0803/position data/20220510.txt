@@ -1,0 +1,3 @@
+17:10:40	Primary Pick Up lower after	1121.6070	222.2849	87.8207	0.0000
+17:11:23	Secondray Pick Up-Lower after	871.3574	469.5504	59.5751	-0.0071
+17:12:12	Put Down All-Lower after	939.8278	759.9258	63.3799	-0.0060

@@ -1,0 +1,4 @@
+1 xxxx：目標mark位置
+2 xxxx：目前mark位置
+c0a-b ：第a組 補正 第b次量測
+8p cxx-xx：校正片 8點mark 量測數據

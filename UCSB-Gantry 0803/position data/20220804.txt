@@ -1,0 +1,5 @@
+15:44:56	Primary Pick Up lower after	501.2780	59.0013	72.0068	-0.0000
+15:59:22	Primary Pick Up lower after	501.2780	59.0013	72.0240	0.0000
+15:59:48	Secondray Pick Up-Lower after	562.4470	283.6569	46.1746	-0.0012
+17:32:25	Primary Pick Up lower after	501.2780	59.0014	89.8553	-0.0000
+17:33:48	Secondray Pick Up-Lower after	565.3617	279.8217	62.3873	-0.0113

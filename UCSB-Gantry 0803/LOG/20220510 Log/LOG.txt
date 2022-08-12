@@ -1,0 +1,12 @@
+***
+Calculate Tip offset_add Z up
+step1 針筒放好後 
+step2 Z軸會先上升再進行針筒戳洞
+
+***
+
+***
+
+***
+
+***
